@@ -2,7 +2,6 @@
 
 package static_methods;
 
-
 public class HelloWorld{
 	public static void main(String args[]) {
 		GoodbyeWorld.print();//static method being called in a static way (no objects) 
